@@ -1,0 +1,20 @@
+TODO:
+Skapa följande komponenter:
+  * DFN12
+  * DFN08
+  * MFSM250CT
+  * DIP24MW
+
+Lägg till footprint på:
+  * J1000
+  * J1001
+  * J1002
+  * J9000
+  * J9001
+  * JP9000
+  * R3001
+  * R3002
+
+Kolla footprint:
+  * R3000
+
